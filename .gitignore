@@ -1,0 +1,47 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.pyd
+*.db
+*.sqlite3
+
+# Django
+*.log
+*.pot
+*.py[cod]
+*.swp
+*.swo
+
+# Database
+db.sqlite3
+
+# Django migrations
+migrations/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# Pytest
+.cache/
+
+# MySQL or PostgreSQL databases
+*.sql
